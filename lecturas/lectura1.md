@@ -8,4 +8,6 @@ En general los algoritmos mostrados se entienden bien, pero en los desafios prá
 
 Otro aspecto que me pareció relevante es el uso de tags para recomendar en conjunto con CF, ya que en mi experiencia personal, los tags son muchas veces más importantes que el rating de un producto, por ejemplo los géneros en los que cae una película o videojuego, si coinciden con mis gustos, pueden hacer que quiera ver una pelicula a la que según una predicción independiente le daría bajo rating.
 
+Además, en la sección 9.4.4, se menciona que una posible solución al problema de nuevos items es seleccionar items de forma aleatoria para que un usuario los evalúe, sin embargo me parece que esto es poco realista en una gran cantidad de aplicaciones, ya que evaluar un item por lo general tiene costo, ya sea de tiempo o dinero para el usuario, y esto puede afectar negativamente su experiencia con el sistema recomendador.
+
 Finalmente, cabe mencionar que el paper fue publicado en el año 2007, por lo que es posible que aspectos que se dejan abiertos a discusión futura, como el mismo uso de tagging mencionado anteriormente ya estén implementados de mejor forma, y que CF se haya propagado más que solo a grandes empresas o centros de investigación como el paper dice que era cuando se publicó.
